@@ -1,0 +1,180 @@
+Source,Target,Country,Region,Exports,Imports
+Afghanistan,India,Afghanistan,Asia,1476,1000
+Armenia,Georgia,Armenia,Asia,2971,5053
+Armenia,Kazakhstan,Australia,Oceania,345599,202822
+Armenia,Kyrgyzstan,Azerbaijan,Asia,22206,13649
+Armenia,Moldova,Bahrain,Asia,12214,10368
+Armenia,Russia,Belarus,Europe,39889,31668
+Armenia,Tajikistan,Brunei,Asia,11058,5101
+Armenia,Turkmenistan,Cambodia,Asia,17571,19296
+Armenia,Ukraine,Canada,Americas,503726,405001
+Australia,Chile,Chile,Americas,89842,55317
+Australia,CHINA,CHINA,Asia,3026233,2055590
+Australia,Indonesia,Colombia,Americas,40488,43488
+Australia,Japan,Costa Rica,Americas,21376,14456
+Australia,Korea,Dominican Republic,Americas,11831,18295
+Australia,Malaysia,El Salvador,Americas,5660,10089
+Australia,NZ,EU,Europe,810711,800000
+Australia,Peru,Georgia,Asia,3291,6143
+Australia,PNG,Guatemala,Americas,13594,19881
+Australia,Singapore,Honduras,Americas,4975,9157
+Australia,Thailand,Hong Kong,Asia,672153,578590
+Australia,USA,Iceland,Europe,5976,5706
+Azerbaijan,Georgia,India,Asia,421894,478883
+Azerbaijan,Kazakhstan,Indonesia,Asia,228231,141622
+Azerbaijan,Moldova,Iran,Asia,13932,27308
+Azerbaijan,Russia,Israel,Asia,59828,76491
+Azerbaijan,Turkey,Japan,Asia,757460,634577
+Azerbaijan,Turkmenistan,Jordan,Asia,8376,17040
+Azerbaijan,Ukraine,Kazakhstan,Asia,56805,38081
+Azerbaijan,Uzbekistan,Korea,Asia,644438,467540
+Bahrain,USA,Kyrgyzstan,Asia,1658,3684
+Brunei,Japan,Laos,Asia,5485,5797
+Cambodia,CHINA,Macau,Asia,1392,12024
+Canada,USA,Malaysia,Asia,299288,189777
+Chile,CHINA,Maldives,Asia,151,1678
+Chile,USA,Marshall Islands,Oceania,1315,11789
+CHINA,Chile,Mauritius,Africa,1684,5600
+CHINA,Costa Rica,Mexico,Americas,494595,467293
+CHINA,Georgia,Moldova,Europe,3144,5223
+CHINA,Iceland,Mongolia,Asia,7921,5610
+CHINA,Korea,Morocco,Africa,36578,44601
+CHINA,Macau,Nepal,Asia,1646,9887
+CHINA,Mauritius,Nicaragua,Americas,6495,6985
+CHINA,Peru,NZ,Oceania,43361,37165
+CHINA,Singapore,Oman,Asia,52661,19444
+CHINA,Switzerland,Pakistan,Asia,28880,50134
+CHINA,Thailand,Palau,Oceania,500,110.7
+Colombia,USA,Panama,Americas,7499,41829
+Costa Rica,CHINA,Paraguay,Americas,10547,9936
+Costa Rica,USA,Peru,Americas,56260,36064
+Dominican Republic,USA,Philippines,Asia,74619,90758
+EU,Vietnam,PNG,Ocenaia,11608,4275
+EU,Singapore,Russia,Europe,492314,231551
+EU,Japan,Singapore,Asia,457749,329079
+EU,Canada,Sri Lanka,Asia,12721,15584
+EU,Mexico,Switzerland,Europe,380243,291072
+EU,Turkey,Taiwan,Asia,447565,287442
+EU,NZ,Tajikistan,Asia,1786,3139
+El Salvador,USA,Thailand,Asia,267492,208784
+Georgia,Kazakhstan,Turkey,Asia,225264,219397
+Georgia,Moldova,Turkmenistan,Asia,8972,2693
+Georgia,Russia,UAE,Asia,217742,300000
+Georgia,Turkey,UK,Europe,468059,631859
+Georgia,Turkmenistan,Ukraine,Europe,65870,53978
+Georgia,Uzbekistand,USA,Americas,1753941,2407543
+Georgia,CHINA,Uzbekistan,Asia,14034,21867
+Georgia,Ukraine,Vietnam,Asia,406755,271111
+Guatemala,USA,,,,
+Honduras,USA,,,,
+Iceland,CHINA,,,,
+India,Chile,,,,
+India,Japan,,,,
+India,Korea,,,,
+India,Malaysia,,,,
+India,Mauritius,,,,
+India,Nepal,,,,
+India,Singapore,,,,
+India,Sri Lanka,,,,
+Indonesia,Chile,,,,
+Indonesia,Japan,,,,
+Indonesia,Pakistan,,,,
+Israel,USA,,,,
+Japan,CHINA,,,,
+Japan,Malaysia,,,,
+Japan,Mexico,,,,
+Japan,Mongolia,,,,
+Japan,Peru,,,,
+Japan,Philippines,,,,
+Japan,Singapore,,,,
+Japan,Switzerland,,,,
+Japan,Thailand,,,,
+Japan,UK,,,,
+Japan,USA,,,,
+Japan,Vietnam,,,,
+Jordan,USA,,,,
+Kazakhstan,Russia,,,,
+Kazakhstan,Ukraine,,,,
+Kazakhstan,Uzbekistan,,,,
+Korea,Canada,,,,
+Korea,Chile,,,,
+Korea,CHINA,,,,
+Korea,Colombia,,,,
+Korea,EU,,,,
+Korea,NZ,,,,
+Korea,Peru,,,,
+Korea,Singapore,,,,
+Korea,Turkey,,,,
+Korea,UK,,,,
+Korea,USA,,,,
+Korea,USA,,,,
+Korea,Vietnam,,,,
+Kyrgyzstan,Kazakhstan,,,,
+Kyrgyzstan,Moldova,,,,
+Kyrgyzstan,Russia,,,,
+Kyrgyzstan,Tajikistan,,,,
+Kyrgyzstan,Ukraine,,,,
+Kyrgyzstan,Uzbekistan,,,,
+Laos,Thailand,,,,
+Macau,CHINA,,,,
+CHINA,Macau,,,,
+Hong Kong,CHINA,,,,
+CHINA,Hong Kong,,,,
+Malaysia,Chile,,,,
+Malaysia,Pakistan,,,,
+Malaysia,Turkey,,,,
+Maldives,CHINA,,,,
+Marshall Islands,USA,,,,
+Mauritius,CHINA,,,,
+Mexico,USA,,,,
+Morocco,USA,,,,
+NZ,CHINA,,,,
+NZ,Malaysia,,,,
+NZ,Singapore,,,,
+NZ,Taiwan,,,,
+NZ,Thailand,,,,
+Nicaragua,USA,,,,
+Oman,USA,,,,
+Pakistan,CHINA,,,,
+Pakistan,Mauritius,,,,
+Pakistan,Sri Lanka,,,,
+Pakistan,USA,,,,
+Palau,USA,,,,
+Panama,USA,,,,
+Peru,CHINA,,,,
+Peru,USA,,,,
+Philippines,EU,,,,
+Singapore,CHINA,,,,
+Singapore,Costa Rica,,,,
+Singapore,EU,,,,
+Singapore,Panama,,,,
+Singapore,Peru,,,,
+Singapore,Taiwan,,,,
+Singapore,Turkey,,,,
+Singapore,UAE,,,,
+Singapore,UK,,,,
+Singapore,USA,,,,
+Sri Lanka,Iran,,,,
+Sri Lanka,Singapore,,,,
+Switzerland,CHINA,,,,
+Taiwan,El Salvador,,,,
+Taiwan,Guatemala,,,,
+Taiwan,Nicaragua,,,,
+Taiwan,Panama,,,,
+Taiwan,Paraguay,,,,
+Tajikistan,Belarus,,,,
+Belarus,Tajikistan,,,,
+Tajikistan,Russia,,,,
+Tajikistan,Ukraine,,,,
+Tajikistan,Uzbekistan,,,,
+Thailand,Chile,,,,
+Thailand,Peru,,,,
+Turkmenistan,Russia,,,,
+UK,Georgia,,,,
+USA,CHINA,,,,
+Uzbekistan,Moldova,,,,
+Uzbekistan,Russia,,,,
+Uzbekistan,Ukraine,,,,
+Vietnam,Chile,,,,
+Vietnam,EU,,,,
+Vietnam,UK,,,,
